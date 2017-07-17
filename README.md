@@ -51,7 +51,7 @@ The location at which the `jenkins-cli.jar` jarfile will be kept. This is used f
 
     jenkins_plugins: []
 
-Jenkins plugins to be installed automatically during provisioning.
+Jenkins plugins to be installed automatically during provisioning. Work is ongoing to enable pinning plugins to a fixed version.
 
     jenkins_plugin_updates_expiration: 86400
 
